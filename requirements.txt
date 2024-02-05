@@ -1,0 +1,4 @@
+# HW1 part B
+
+matplotlib
+# pip install torch --index-url https://download.pytorch.org/whl/cu118  # Manually install PyTorch
