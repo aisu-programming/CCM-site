@@ -13,3 +13,8 @@ scipy
 
 ### HW1 part E
 tqdm
+
+
+### HW2 part A
+pandas
+tabulate
